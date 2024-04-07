@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hayamania
-- 👀 I’m interested in everything about front end development.
-- 🌱 I’m currently learning React and other JavaScript packages.
-- 💞️ I’m looking to start my coding journey as a front end developer.
-- 📫 How to reach me, please email me to hayama.chie@gmail.com.
+- 👀 I’m passionate about all things related to full-stack development.
+- 🌱 I’m currently building a system using Sveltekit and Python primarily.
+- 💞️ I aspire to become a full-stack developer, dedicated to crafting digital experiences that delight both clients and users alike.
+- 📫  How to reach me: please email me at hayamania.developer@gmail.com
 
 <!---
 hayamania/hayamania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
